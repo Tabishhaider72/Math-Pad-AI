@@ -1,0 +1,11 @@
+{
+    "name": "Backend",
+    "version": "2",
+    "main": "Main.py",
+    "scripts": {
+      "start": "python main.py"
+    },
+    "dependencies": {
+      "python": "^3.12.6"
+    }
+  }
