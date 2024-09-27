@@ -16,9 +16,12 @@
 - **Backend**: Python FastAPI
 - **API**: Google Gemini API for enhanced mathematical computation
 
-## Live Demo
+## Demo Video
 
-Check out the live application: [MathPad](https://math-pad-ai-3mam.vercel.app)
+![image](https://github.com/user-attachments/assets/bee78af7-699b-4186-a2dd-8785cc7a5e42)
+
+
+Watch the full demo video [here](https://www.loom.com/share/65a3a8e2d6a94304b9408a5b213a3bf6?sid=1f62b095-b933-44f3-9704-8abec3e42208).
 
 ## Installation
 
